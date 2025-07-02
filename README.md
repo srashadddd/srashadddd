@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @srashadddd<br>👀 I’m interested in music, politics, coding<br>🌱 I’m currently learning a bit of C/C++/Python<br>💞️ I’m looking to collaborate on AI & ML<br>📫 How to reach me: facebook.com/sras.17<br>😄 Pronouns: he/him/his<br>⚡ Fun fact: I don't make my projects public.
+👋 Hi, I’m @srashadddd<br>👀 I’m interested in music, politics, youth uprising, coding<br>🌱 I’m currently learning a bit of C/C++/Python<br>💞️ I’m looking to collaborate on AI & ML<br>📫 How to reach me: facebook.com/sras.17<br>😄 Pronouns: he/him/his<br>⚡ Fun fact: I don't make my projects public.
 
 
 ## 🌐 Socials:
